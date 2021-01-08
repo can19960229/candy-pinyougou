@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mhNUg3Db38LPSoGKM6nm7gNhF4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.24375" />
+    <property name="project.structure.side.proportion" value="0.36434108" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pinyougou.mapper" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\webapp" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources\com\pinyougou\mapper" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\java\com\pinyougou\mapper" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\angularjs-40demo" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\angularjs-40demo\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources\com\pinyougou\mapper" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.pinyougou-sellergoods-service">
+    <configuration name="SpringMapperTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pinyougou-sellergoods-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pinyougou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pinyougou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.pinyougou.test.SpringMapperTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pinyougou-manage-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/pinyougou/pinyougou-manage-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="pinyougou-sellergoods-service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringMapperTest.testInsert" />
+      <item itemvalue="Maven.pinyougou-sellergoods-service" />
+      <item itemvalue="Maven.pinyougou-manage-web" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringMapperTest.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="" />
+      <created>1609941879968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609941879968</updated>
+      <workItem from="1609941882675" duration="2697000" />
+      <workItem from="1609984553899" duration="5252000" />
+      <workItem from="1610002223982" duration="2843000" />
+      <workItem from="1610005104288" duration="31257000" />
+      <workItem from="1610113354872" duration="2307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="197" key="#Custom_Plugin_Repositories" timestamp="1609984620316">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="197" key="#Custom_Plugin_Repositories/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609984620316" />
+    <state x="552" y="197" key="#Project_Structure" timestamp="1610005389277">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="197" key="#Project_Structure/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610005389277" />
+    <state x="415" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609988206501">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="415" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609988206501" />
+    <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1610111886198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610111886198" />
+    <state x="543" y="397" width="836" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610003260477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="397" width="836" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610003260477" />
+    <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610115364041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610115364041" />
+    <state x="707" y="293" key="FileChooserDialogImpl" timestamp="1610094857118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="707" y="293" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610094857118" />
+    <state width="1859" height="133" key="GridCell.Tab.0.bottom" timestamp="1610115730122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="133" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610115730122" />
+    <state width="1859" height="133" key="GridCell.Tab.0.center" timestamp="1610115730121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="133" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610115730121" />
+    <state width="1859" height="133" key="GridCell.Tab.0.left" timestamp="1610115730121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="133" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610115730121" />
+    <state width="1859" height="133" key="GridCell.Tab.0.right" timestamp="1610115730122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="133" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610115730122" />
+    <state width="1859" height="417" key="GridCell.Tab.1.bottom" timestamp="1610113281695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="417" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610113281695" />
+    <state width="1859" height="417" key="GridCell.Tab.1.center" timestamp="1610113281695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="417" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610113281695" />
+    <state width="1859" height="417" key="GridCell.Tab.1.left" timestamp="1610113281695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="417" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610113281695" />
+    <state width="1859" height="417" key="GridCell.Tab.1.right" timestamp="1610113281695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1859" height="417" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610113281695" />
+    <state x="491" y="194" key="Maven.ArtifactSearchDialog" timestamp="1610096075134">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="491" y="194" key="Maven.ArtifactSearchDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610096075134" />
+    <state x="461" y="171" key="SettingsEditor" timestamp="1610005382703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="171" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610005382703" />
+    <state x="-1833" y="98" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610111596254">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1833" y="98" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610111596254" />
+    <state x="640" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1609984563185">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609984563185" />
+    <state x="298" y="148" key="new project wizard" timestamp="1610074599625">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="298" y="148" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610074599625" />
+    <state x="624" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1610075467363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610075467363" />
+    <state x="555" y="279" key="spring file set editor" timestamp="1610005382082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="279" key="spring file set editor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610005382082" />
+  </component>
+</project>
