@@ -1,197 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_shop_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_shop_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_12_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbAddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbAreasMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbBrandMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbCitiesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbContentCategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbContentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbFreightTemplateMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbGoodsDescMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbGoodsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbItemCatMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbItemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbOrderItemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbOrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbPayLogMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbProvincesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbSellerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbSpecificationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbSpecificationOptionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbTypeTemplateMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbAddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbAreasMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbBrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbCitiesMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbContentCategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbContentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbFreightTemplateMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbGoodsDescMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbGoodsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbItemCatMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbItemMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbOrderItemMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbOrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbPayLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbProvincesMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbSellerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbSpecificationMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbSpecificationOptionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbTypeTemplateMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbUserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/BrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/pinyougou-shop-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manage_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manage_web_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_sellergoods_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_sellergoods_service_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_solr_1_5_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_3_10_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/pinyougou-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/pinyougou-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/pinyougou-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/pinyougou-dao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/BrandMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper/BrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/com/pinyougou/mapper/BrandMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/com/pinyougou/mapper/BrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/mybatis/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/pinyougou-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/pinyougou-dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pinyougou-manage-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pinyougou-manage-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manage/controller/BrandController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/classes/com/pinyougou/manage/controller/BrandController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/classes/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/manage/controller/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/manage/controller/BrandController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/httpclient-cache-4.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/httpmime-4.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.6.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.6.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/noggit-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/persistence-api-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/solr-solrj-4.10.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.11.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-solr-1.5.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/wstx-asl-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/tomcat/logs/access_log.2021-01-08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/pinyougou-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/pinyougou-pojo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbAreas.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbAreas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/pinyougou-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/pinyougou-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/pinyougou-sellergoods-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/pinyougou-sellergoods-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/BrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/classes/com/pinyougou/sellergoods/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/classes/com/pinyougou/sellergoods/service/BrandService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/pinyougou-sellergoods-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/pinyougou-sellergoods-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/resources/spring/applicationContextservice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/classes/spring/applicationContextservice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContextservice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/httpclient-cache-4.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/httpmime-4.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.6.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.6.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/mapper-3.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/noggit-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/persistence-api-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/solr-solrj-4.10.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.11.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-data-solr-1.5.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/wstx-asl-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/tomcat/logs/access_log.2021-01-08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,6 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -343,12 +154,24 @@
       <workItem from="1610005104288" duration="31257000" />
       <workItem from="1610113354872" duration="9537000" />
       <workItem from="1610174090703" duration="14898000" />
-      <workItem from="1610193463280" duration="2553000" />
+      <workItem from="1610193463280" duration="2819000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1610196334432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610196334433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="197" key="#Custom_Plugin_Repositories" timestamp="1609984620316">
@@ -375,6 +198,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610193960039" />
+    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2" timestamp="1610196431231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610196431231" />
     <state x="707" y="293" key="FileChooserDialogImpl" timestamp="1610189618043">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -427,6 +254,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="171" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610005382703" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1610196341597">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610196341597" />
     <state x="-1833" y="98" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610111596254">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
