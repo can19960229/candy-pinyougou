@@ -46,4 +46,3 @@
 
 ### 资金结算
 
-*XMind: ZEN - Trial Version*
