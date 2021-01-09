@@ -17,9 +17,19 @@
       <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
-    <groupId>com.pinyougou</groupId>
-    <artifactId>pinyougou-dao</artifactId>
-    <version>1.0-SNAPSHOT</version>
+      <groupId>com.pinyougou</groupId>
+      <artifactId>pinyougou-dao</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>com.pinyougou</groupId>
+      <artifactId>pinyougou-common</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <!-- Spring -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -27,17 +37,29 @@
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
+      <artifactId>spring-webmvc</artifactId>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
-      <artifactId>spring-web</artifactId>
+      <artifactId>spring-jdbc</artifactId>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-aspects</artifactId>
     </dependency>
-    <!-- dubbo 相关 -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-jms</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context-support</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-test</artifactId>
+    </dependency>
+    <!-- dubbo相关 -->
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>dubbo</artifactId>
@@ -51,14 +73,33 @@
       <artifactId>zkclient</artifactId>
     </dependency>
     <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+    </dependency>
+    <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
     </dependency>
     <dependency>
-      <groupId>com.pinyougou</groupId>
-      <artifactId>pinyougou-common</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <groupId>javassist</groupId>
+      <artifactId>javassist</artifactId>
     </dependency>
+    <dependency>
+      <groupId>commons-codec</groupId>
+      <artifactId>commons-codec</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-web</artifactId>
+    </dependency>
+
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -72,7 +113,7 @@
         <artifactId>tomcat7-maven-plugin</artifactId>
         <configuration>
           <path>/</path>
-          <port>9000</port>
+          <port>9001</port>
         </configuration>
       </plugin>
     </plugins>

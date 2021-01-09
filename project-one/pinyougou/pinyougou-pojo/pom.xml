@@ -11,16 +11,6 @@
 
     <artifactId>pinyougou-pojo</artifactId>
 
-    <dependencies>
-        <!-- jpa 注解 -->
-        <dependency>
-            <groupId>javax.persistence</groupId>
-            <artifactId>persistence-api</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.data</groupId>
-            <artifactId>spring-data-solr</artifactId>
-        </dependency>
-    </dependencies>
+
 
 </project>

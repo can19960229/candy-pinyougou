@@ -1,2 +1,0 @@
-0:0:0:0:0:0:0:1 - - [08/Jan/2021:22:21:16 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9100-exec-1 39
-0:0:0:0:0:0:0:1 - - [08/Jan/2021:22:21:16 +0800] "GET /brand/findAll.do HTTP/1.1" 200 908 http-bio-9100-exec-3 480
