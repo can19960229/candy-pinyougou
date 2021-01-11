@@ -2,8 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="品优购商城——品牌管理">
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/GoodsDescController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/ItemCatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/SellerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/SpecificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/SpecificationOptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/TypeTemplateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/base_pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/baseController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/brandController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/goodsController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/goodsDescController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/itemCatController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/itemController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/sellerController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/specificationController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/specificationOptionController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/typeTemplateController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/brandService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/goodsDescService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/goodsService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/itemCatService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/itemService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/sellerService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/specificationOptionService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/specificationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/typeTemplateService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/GoodsDescService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/ItemCatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/SellerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/SpecificationOptionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/SpecificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/TypeTemplateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsDescServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SellerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SpecificationOptionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SpecificationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/品优商城.md" beforeDir="false" afterPath="$PROJECT_DIR$/品优商城.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/pinyougou-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-common/target/pinyougou-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/pinyougou-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-dao/target/pinyougou-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/admin/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/target/pinyougou-manage-web-1.0-SNAPSHOT/admin/brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/pinyougou-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-pojo/target/pinyougou-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/target/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,27 +132,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pinyougou/pinyougou-dao/src/main/resources/com/pinyougou/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.24375" />
     <property name="project.structure.side.proportion" value="0.36434108" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources\com\pinyougou\mapper" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.pinyougou.mapper" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources\com\pinyougou\mapper" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\java\com\pinyougou\mapper" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-pojo\src\main\java\com\pinyougou\pojo" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-shop-web\src\main\resources" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources\com\pinyougou\mapper" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\webapp\js\controller" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\webapp\js\service" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\java\com\pinyougou\manager\controller" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-sellergoods\pinyougou-sellergoods-service\src\main\java\com\pinyougou\sellergoods\service\impl" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-sellergoods\pinyougou-sellergoods-interface\src\main\java\com\pinyougou\sellergoods\service" />
     </key>
   </component>
   <component name="RunManager" selected="Maven.pinyougou-manage-web">
@@ -157,7 +227,7 @@
       <workItem from="1610005104288" duration="31257000" />
       <workItem from="1610113354872" duration="9537000" />
       <workItem from="1610174090703" duration="14898000" />
-      <workItem from="1610193463280" duration="25052000" />
+      <workItem from="1610193463280" duration="33124000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1610196334432</created>
@@ -187,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610272507351</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="品优购商城——品牌管理">
+      <created>1610283712240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610283712240</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +290,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="415" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610177768715" />
+    <state x="679" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610347140673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="679" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610347140673" />
     <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1610269966115">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -225,34 +306,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610193960039" />
-    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2" timestamp="1610282903597">
+    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2" timestamp="1610347816926">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610282903597" />
+    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610347816926" />
     <state x="707" y="293" key="FileChooserDialogImpl" timestamp="1610189618043">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="707" y="293" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610189618043" />
-    <state width="1859" height="398" key="GridCell.Tab.0.bottom" timestamp="1610272410213">
+    <state width="1875" height="179" key="GridCell.Tab.0.bottom" timestamp="1610349625751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1859" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610272410213" />
-    <state width="1859" height="398" key="GridCell.Tab.0.center" timestamp="1610272410213">
+    <state width="1875" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610349625751" />
+    <state width="1875" height="179" key="GridCell.Tab.0.center" timestamp="1610349625751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1859" height="398" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610272410213" />
-    <state width="1859" height="398" key="GridCell.Tab.0.left" timestamp="1610272410213">
+    <state width="1875" height="179" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610349625751" />
+    <state width="1875" height="179" key="GridCell.Tab.0.left" timestamp="1610349625751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1859" height="398" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610272410213" />
-    <state width="1859" height="398" key="GridCell.Tab.0.right" timestamp="1610272410213">
+    <state width="1875" height="179" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610349625751" />
+    <state width="1875" height="179" key="GridCell.Tab.0.right" timestamp="1610349625751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1859" height="398" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610272410213" />
+    <state width="1875" height="179" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610349625751" />
     <state width="1859" height="369" key="GridCell.Tab.1.bottom" timestamp="1610174034160">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -285,10 +366,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="171" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610005382703" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1610282910461">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1610283718887">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610282910461" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610283718887" />
     <state x="-1833" y="98" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610111596254">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
