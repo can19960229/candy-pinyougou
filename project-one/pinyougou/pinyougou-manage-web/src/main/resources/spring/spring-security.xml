@@ -34,7 +34,6 @@
 				<user name="candy" password="candy" authorities="ROLE_ADMIN"></user>
 			</user-service>
 		</authentication-provider>
-
 	</authentication-manager>
 
 		
