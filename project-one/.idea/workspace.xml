@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/plugins/jQuery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="55458103-2b29-40f3-91bc-e82310607b96" name="Default Changelist" comment="品优购商城">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_content_service_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_content_service_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-interface/pinyougou-content-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-interface/src/main/java/com/pinyougou/content/service/ContentCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-interface/src/main/java/com/pinyougou/content/service/ContentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/pinyougou-content-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/src/main/java/com/pinyougou/content/service/impl/ContentCategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/src/main/java/com/pinyougou/content/service/impl/ContentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/src/main/resources/spring/applicationContext-tx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/ContentCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/ContentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/contentCategoryController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/contentController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/contentCategoryService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/contentService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/resources/spring/applicationContext-tx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manage_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manage_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pinyougou-manage-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pinyougou-manage-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/content_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/contentCategory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/goodsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/controller/goodsController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/goodsService.js" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/js/service/goodsService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/admin/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/admin/goods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/admin/goods_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/admin/goods_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/js/controller/goodsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/js/controller/goodsController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinyougou/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pinyougou/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +102,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pinyougou/pinyougou-shop-web/src/main/webapp/plugins/jQuery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/src/main/webapp/admin" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.24375" />
     <property name="project.structure.side.proportion" value="0.36434108" />
@@ -82,6 +110,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-content-service\src\main\resources" />
       <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-shop-web\src\main\webapp\js" />
       <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources\com\pinyougou\mapper" />
       <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-dao\src\main\resources" />
@@ -94,14 +123,14 @@
       <recent name="com.pinyougou.shop.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-shop-web\src\main\webapp\plugins\jQuery" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-shop-web\src\main\webapp\js\service" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-shop-web\src\main\java\com\pinyougou\shop\controller" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-common\src\main\java\util" />
-      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-shop-web\src\main\resources\spring" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\webapp\admin" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\webapp\js\controller" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\webapp\js\service" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-manage-web\src\main\java\com\pinyougou\manager\controller" />
+      <recent name="D:\chencan\java\java_project\project-one\pinyougou\pinyougou-content-service\src\main\java\com\pinyougou\content\service\impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.pinyougou-shop-web">
+  <component name="RunManager" selected="Maven.pinyougou-manage-web">
     <configuration name="pinyougou-manage-web" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -203,7 +232,7 @@
       <workItem from="1610418433111" duration="5282000" />
       <workItem from="1610441597180" duration="20150000" />
       <workItem from="1610523149292" duration="10946000" />
-      <workItem from="1610592270597" duration="62056000" />
+      <workItem from="1610592270597" duration="75685000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1610196334432</created>
@@ -282,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610717867555</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="品优购商城">
+      <created>1611024127001</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611024127001</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,46 +351,46 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="679" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610347140673" />
-    <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1610695268857">
+    <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1611026203745">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610695268857" />
+    <state x="835" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611026203745" />
     <state x="543" y="397" width="836" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610003260477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="543" y="397" width="836" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610003260477" />
-    <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610193960039">
+    <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611128861353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610193960039" />
-    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2" timestamp="1610717866574">
+    <state x="760" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611128861353" />
+    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2" timestamp="1611041745885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610717866574" />
+    <state x="189" y="13" width="1432" height="936" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611041745885" />
     <state x="707" y="293" key="FileChooserDialogImpl" timestamp="1610189618043">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="707" y="293" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610189618043" />
-    <state width="1875" height="234" key="GridCell.Tab.0.bottom" timestamp="1611021476032">
+    <state width="1875" height="234" key="GridCell.Tab.0.bottom" timestamp="1611127855649">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1875" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611021476032" />
-    <state width="1875" height="234" key="GridCell.Tab.0.center" timestamp="1611021476032">
+    <state width="1875" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611127855649" />
+    <state width="1875" height="234" key="GridCell.Tab.0.center" timestamp="1611127855648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1875" height="234" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611021476032" />
-    <state width="1875" height="234" key="GridCell.Tab.0.left" timestamp="1611021476031">
+    <state width="1875" height="234" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611127855648" />
+    <state width="1875" height="234" key="GridCell.Tab.0.left" timestamp="1611127855648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1875" height="234" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611021476031" />
-    <state width="1875" height="234" key="GridCell.Tab.0.right" timestamp="1611021476032">
+    <state width="1875" height="234" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611127855648" />
+    <state width="1875" height="234" key="GridCell.Tab.0.right" timestamp="1611127855648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1859" height="434" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610203266421" />
-    <state width="1875" height="234" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611021476032" />
+    <state width="1875" height="234" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611127855648" />
     <state width="1875" height="375" key="GridCell.Tab.1.bottom" timestamp="1610594199240">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -387,10 +423,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="171" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610005382703" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1610717878135">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1611040323406">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610717878135" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611040323406" />
     <state x="-1833" y="98" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610111596254">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -403,18 +439,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="704" y="294" key="extract.method.dialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611022400876" />
-    <state x="298" y="148" key="new project wizard" timestamp="1610172263750">
+    <state x="298" y="148" key="new project wizard" timestamp="1611127796355">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="298" y="148" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610172263750" />
+    <state x="298" y="148" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611127796355" />
     <state x="702" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1610365374355">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="702" y="166" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610365374355" />
-    <state x="616" y="245" key="run.anything.popup" timestamp="1610677016521">
+    <state x="616" y="245" key="run.anything.popup" timestamp="1611127825014">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="245" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610677016521" />
+    <state x="616" y="245" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611127825014" />
     <state x="624" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1610522541666">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

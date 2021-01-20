@@ -80,9 +80,8 @@ app.controller('goodsController' ,function($scope,$controller,$location,goodsSer
 		serviceObject.success(
 			function(response){
 				if(response.success){
-					alert("新增成功");
-					$scope.entity={};
-					editor.html("");//清空富文本编辑器
+					alert("保存成功");
+					location.href="goods.html";//跳转到商品列表页
 				}else{
 					alert(response.message);
 				}

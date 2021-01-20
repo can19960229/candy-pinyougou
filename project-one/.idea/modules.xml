@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/pinyougou/angularjs-40demo/angularjs-40demo.iml" filepath="$PROJECT_DIR$/pinyougou/angularjs-40demo/angularjs-40demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou/pinyougou.iml" filepath="$PROJECT_DIR$/pinyougou/pinyougou.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou/pinyougou-common/pinyougou-common.iml" filepath="$PROJECT_DIR$/pinyougou/pinyougou-common/pinyougou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou/pinyougou-content-interface/pinyougou-content-interface.iml" filepath="$PROJECT_DIR$/pinyougou/pinyougou-content-interface/pinyougou-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou/pinyougou-content-service/pinyougou-content-service.iml" filepath="$PROJECT_DIR$/pinyougou/pinyougou-content-service/pinyougou-content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou/pinyougou-dao/pinyougou-dao.iml" filepath="$PROJECT_DIR$/pinyougou/pinyougou-dao/pinyougou-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pinyougou-manage-web.iml" filepath="$PROJECT_DIR$/pinyougou/pinyougou-manage-web/pinyougou-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pinyougou-parent/pinyougou-parent.iml" filepath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-parent.iml" />

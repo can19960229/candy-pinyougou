@@ -16,6 +16,7 @@ import com.pinyougou.pojo.TbGoodsExample.Criteria;
 import com.pinyougou.sellergoods.service.GoodsService;
 
 import entity.PageResult;
+import org.springframework.transaction.annotation.Transactional;
 
 /**
  * 服务实现层
@@ -23,11 +24,28 @@ import entity.PageResult;
  *
  */
 @Service
+@Transactional
 public class GoodsServiceImpl implements GoodsService {
 
 	@Autowired
 	private TbGoodsMapper goodsMapper;
-	
+
+	@Autowired
+	private TbGoodsDescMapper goodsDescMapper;
+
+	@Autowired
+	private TbItemMapper itemMapper;
+
+	@Autowired
+	private TbItemCatMapper itemCatMapper;
+
+	@Autowired
+	private TbSellerMapper sellerMapper;
+
+	@Autowired
+	private TbBrandMapper brandMapper;
+
+
 	/**
 	 * 查询全部
 	 */
@@ -45,22 +63,6 @@ public class GoodsServiceImpl implements GoodsService {
 		Page<TbGoods> page=   (Page<TbGoods>) goodsMapper.selectByExample(null);
 		return new PageResult(page.getTotal(), page.getResult());
 	}
-
-	@Autowired
-	private TbGoodsDescMapper goodsDescMapper;
-
-	@Autowired
-	private TbItemMapper itemMapper;
-
-	@Autowired
-	private TbItemCatMapper itemCatMapper;
-
-	@Autowired
-	private TbSellerMapper sellerMapper;
-
-	@Autowired
-	private TbBrandMapper brandMapper;
-
 
 	/**
 	 * 增加
@@ -140,8 +142,6 @@ public class GoodsServiceImpl implements GoodsService {
 
 	}
 
-
-
 	/**
 	 * 修改
 	 */
@@ -193,8 +193,14 @@ public class GoodsServiceImpl implements GoodsService {
 	 */
 	@Override
 	public void delete(Long[] ids) {
+		//在数据库表格tb_goods有字段为is_delete标识是否删除，为null则为不删除，为1则为删除
+
 		for(Long id:ids){
-			goodsMapper.deleteByPrimaryKey(id);
+
+			TbGoods goods = goodsMapper.selectByPrimaryKey(id);//根据id查询出goods对象
+			goods.setIsDelete("1");
+			goodsMapper.updateByPrimaryKey(goods);
+
 		}		
 	}
 	
@@ -205,7 +211,7 @@ public class GoodsServiceImpl implements GoodsService {
 		
 		TbGoodsExample example=new TbGoodsExample();
 		Criteria criteria = example.createCriteria();
-		
+		criteria.andIsDeleteIsNull();//非删除状态。指定条件为未逻辑删除记录
 		if(goods!=null){			
 			if(goods.getSellerId()!=null && goods.getSellerId().length()>0){
 				//criteria.andSellerIdLike("%"+goods.getSellerId()+"%");
@@ -238,5 +244,19 @@ public class GoodsServiceImpl implements GoodsService {
 		Page<TbGoods> page= (Page<TbGoods>)goodsMapper.selectByExample(example);		
 		return new PageResult(page.getTotal(), page.getResult());
 	}
-	
+
+	/**
+	 * 修改状态
+	 * @param ids
+	 * @param status
+	 */
+	@Override
+	public void updateStatus(Long[] ids, String status) {
+		for (Long id : ids) {
+			TbGoods goods = goodsMapper.selectByPrimaryKey(id);
+			goods.setAuditStatus(status);
+			goodsMapper.updateByPrimaryKey(goods);
+		}
+	}
+
 }
