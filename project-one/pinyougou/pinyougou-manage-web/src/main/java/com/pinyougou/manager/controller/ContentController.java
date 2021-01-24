@@ -31,7 +31,6 @@ public class ContentController {
 		return contentService.findAll();
 	}
 	
-	
 	/**
 	 * 返回全部列表
 	 * @return
