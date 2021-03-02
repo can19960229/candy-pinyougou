@@ -4,6 +4,8 @@
     <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-content-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-manage-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-search-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou/pinyougou-shop-web" />
   </component>
