@@ -12,6 +12,8 @@ public interface ItemSearchService {
 	 * @return
 	 */
 	public Map search(Map searchMap);
+
+
 	
 	
 }

@@ -41,7 +41,7 @@ public class GoodsController {
 	public PageResult  findPage(int page,int rows){			
 		return goodsService.findPage(page, rows);
 	}
-	
+
 
 	
 	/**
@@ -69,7 +69,7 @@ public class GoodsController {
 	public Goods findOne(Long id){
 		return goodsService.findOne(id);		
 	}
-	
+
 	/**
 	 * 批量删除
 	 * @param ids
@@ -79,7 +79,7 @@ public class GoodsController {
 	public Result delete(Long [] ids){
 		try {
 			goodsService.delete(ids);
-			return new Result(true, "删除成功"); 
+			return new Result(true, "删除成功");
 		} catch (Exception e) {
 			e.printStackTrace();
 			return new Result(false, "删除失败");

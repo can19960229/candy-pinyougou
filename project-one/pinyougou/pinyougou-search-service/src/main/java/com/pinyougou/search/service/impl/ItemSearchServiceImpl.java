@@ -98,7 +98,7 @@ public class ItemSearchServiceImpl implements ItemSearchService {
 		HighlightPage<TbItem> page = solrTemplate.queryForHighlightPage(query, TbItem.class);
 		//高亮入口集合(每条记录的高亮入口)
 		List<HighlightEntry<TbItem>> entryList = page.getHighlighted();
-		for(HighlightEntry<TbItem> entry:entryList  ){
+		for(HighlightEntry<TbItem> entry:entryList ){
 			//获取高亮列表(高亮域的个数)
 			List<HighlightEntry.Highlight> highlightList = entry.getHighlights();
 			/*
